@@ -56,7 +56,7 @@ app.post('/url', slowDown({
       slug,
       url,
     });
-    if (url.includes('url-shortener-qbtl.herokuapp.com')) {
+    if (url.includes('localhost:1337')) {
       throw new Error('Arrêtez ça. 🛑');
     }
     if (!slug) {
