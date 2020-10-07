@@ -3,7 +3,7 @@
 A url shortener is designed to reduce the length of urls which are often too long. This project aims to reduce the url to replace it with a slug.
 When we type the url with the slug, we are automatically redirect to the url given to create the slug.
 
-This porject uses NodeJS, Express and can be deployed on Heroku.
+This project uses NodeJS, Express and can be deployed on Heroku.
 
 To start the project follow the instructions below:
 
